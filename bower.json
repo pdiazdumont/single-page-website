@@ -1,0 +1,23 @@
+{
+  "name": "Single page website",
+  "homepage": "https://github.com/pdiazdumont/single-page-website",
+  "authors": [
+    "Paul Diaz Dumont <hi@pdiazdumont.net>"
+  ],
+  "description": "Backend template for single page websites.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "public/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "uikit": "~2.24.3"
+  }
+}
